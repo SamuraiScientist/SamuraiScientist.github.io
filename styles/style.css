@@ -1,11 +1,23 @@
 body {
-  background-color: #333333;
+  background-color: #000080;
 }
 
 header {
-  background-color: #330000;
+  background-color: #0000FF;
 }
 
 h2 {
   color: #FFFFFF;
+}
+
+#downloads {
+  color: #FFFFFF;
+}
+
+#bq:link {
+  color: #FF0000;
+}
+
+#bq:visited {
+  color: #000000;
 }
